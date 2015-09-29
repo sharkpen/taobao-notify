@@ -1,0 +1,3 @@
+a super fast and scalable notify system based on journal store(store4j)
+
+come soon...
